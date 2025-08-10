@@ -88,3 +88,6 @@ node app.js
 ```
 http://<Your-AWS-Public-IP>:9990/sapsecops
 ```
+
+<img width="642" height="121" alt="image" src="https://github.com/user-attachments/assets/8dc5bece-51cb-44fd-bd0f-76db7bcfd3a7" />
+
